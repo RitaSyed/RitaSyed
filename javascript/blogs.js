@@ -1,7 +1,3 @@
-console.log("blogs");
-
-
-
 var blogs = [
   {
     id: "blog1", 

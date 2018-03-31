@@ -30,5 +30,49 @@
       "date": "04/03/18", 
       "post": "I learned XHR and completed Solar System project. In Solar System project I chose for loop my Event Listeners instead of event bubbling as I did in Travel Diary project, and also arranged code differently. I did this just for practice. I am practicing to have multiple XHRs."
     }
+  ],
+  "projects": [
+    {
+      "id": "project1", 
+      "title": "Project title 1", 
+      "imageUrl": "http://www.themalaysiantimes.com.my/wp-content/uploads/2017/05/06-train-cat-shake-hands-1024x682.jpg", 
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore ipsum id officia quos sint minus enim nihil? Dicta, nihil voluptatibus ipsa reprehenderit odio quod architecto, dolorum impedit, ullam pariatur placeat.",
+      "githubUrl": "https://github.com/RitaSyed/RitaSyed.github.io"
+    },
+    {
+      "id": "project2", 
+      "title": "Project title 2", 
+      "imageUrl": "http://www.themalaysiantimes.com.my/wp-content/uploads/2017/05/06-train-cat-shake-hands-1024x682.jpg", 
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore ipsum id officia quos sint minus enim nihil? Dicta, nihil voluptatibus ipsa reprehenderit odio quod architecto, dolorum impedit, ullam pariatur placeat.",
+      "githubUrl": "https://github.com/RitaSyed/RitaSyed.github.io"
+    },
+    {
+      "id": "project3", 
+      "title": "Project title 3", 
+      "imageUrl": "http://www.themalaysiantimes.com.my/wp-content/uploads/2017/05/06-train-cat-shake-hands-1024x682.jpg", 
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore ipsum id officia quos sint minus enim nihil? Dicta, nihil voluptatibus ipsa reprehenderit odio quod architecto, dolorum impedit, ullam pariatur placeat.",
+      "githubUrl": "https://github.com/RitaSyed/RitaSyed.github.io"
+    },
+    {
+      "id": "project4", 
+      "title": "Project title 4", 
+      "imageUrl": "http://www.themalaysiantimes.com.my/wp-content/uploads/2017/05/06-train-cat-shake-hands-1024x682.jpg", 
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore ipsum id officia quos sint minus enim nihil? Dicta, nihil voluptatibus ipsa reprehenderit odio quod architecto, dolorum impedit, ullam pariatur placeat.",
+      "githubUrl": "https://github.com/RitaSyed/RitaSyed.github.io"
+    },
+    {
+      "id": "project5", 
+      "title": "Project title 5", 
+      "imageUrl": "http://www.themalaysiantimes.com.my/wp-content/uploads/2017/05/06-train-cat-shake-hands-1024x682.jpg", 
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore ipsum id officia quos sint minus enim nihil? Dicta, nihil voluptatibus ipsa reprehenderit odio quod architecto, dolorum impedit, ullam pariatur placeat.",
+      "githubUrl": "https://github.com/RitaSyed/RitaSyed.github.io"
+    },
+    {
+      "id": "project6", 
+      "title": "Project title 6", 
+      "imageUrl": "http://www.themalaysiantimes.com.my/wp-content/uploads/2017/05/06-train-cat-shake-hands-1024x682.jpg", 
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore ipsum id officia quos sint minus enim nihil? Dicta, nihil voluptatibus ipsa reprehenderit odio quod architecto, dolorum impedit, ullam pariatur placeat.",
+      "githubUrl": "https://github.com/RitaSyed/RitaSyed.github.io"
+    }
   ]
 }

@@ -1,0 +1,78 @@
+{
+  "blogs": [
+    {
+      "id": "blog1", 
+      "title": "Week 1 of NSS", 
+      "date": "02/20/18", 
+      "post": "I think the most interesting topic this week was GIT and github. GIT is challenging to learn at first because of it unique concept. However, once I practiced using GIT, I understood how it makes 'life' easier for developers. I wish that before I started NSS, I had used GIT and github for practice on my own. On the other hand, GIT commands should be used carefully, especially git rm command!"
+    },
+    {
+      "id": "blog2", 
+      "title": "Week 3 of NSS", 
+      "date": "03/06/18", 
+      "post": "Week 3 of NSS started with “introduction” of JavaScript. I put it in quotes because I felt that this introduction to JavaScript accelerated to more advance topics such as looping through arrays on the second day of class after we started JavaScript. Moreover, there was a homework of array challenges! This is where I wrote and solved my very FIRST JavaScript challenges! Every time I solved a challenge, I felt rush of energy! I think I am addicted to coding..."
+    },
+    {
+      "id": "blog3", 
+      "title": "Week 4 of NSS", 
+      "date": "03/13/18", 
+      "post": "Week 4 of NSS. I learned Objects and Functions. And of course, more homework challenges on Objects and Functions!!! I think it’s getting easier to solve challenges and it’s less time consuming. I spend a lot of time reading MDN and researching to complete challenges using different approaches."
+    },
+    {
+      "id": "blog4", 
+      "title": "Week 6 of NSS", 
+      "date": "03/27/18", 
+      "post": "Weeks 5 and 6 of NSS. I completed a limited Language Translator, Music Band website, and Travel Diary projects. The Translator project translates from English to 3 other predefined languages with limited vocabulary. While completing this project, I learned to break down project into small and simple steps. This approach helped me complete this and the following projects, and helped me write tickets more efficiently. Music Band Website was a team project where each member wrote tickets and completed it. I, as a team member, was working on a specific part of the project according to the picked ticket and then pushed it to GitHub. I resolved my GitHub conflicts, reviewed and approved pull requests of other team members. Communication was the key to successful completion of the project before deadline.The Travel Diary project was one of my favorite projects. I completed all the bonus assignments, including delete and edit a diary entry. I would rather go and do more coding then write about it... LOL I enjoy working on projects with a team but I am also comfortable to work on projects alone, and research and solve code issues."
+    },
+    {
+      "id": "blog5", 
+      "title": "Week 7 of NSS", 
+      "date": "04/03/18", 
+      "post": "I learned XHR and completed Solar System project. In Solar System project I chose for loop my Event Listeners instead of event bubbling as I did in Travel Diary project, and also arranged code differently. I did this just for practice. I am practicing to have multiple XHRs."
+    }
+  ],
+  "projects": [
+    {
+      "id": "project1", 
+      "title": "Project title 1", 
+      "imageUrl": "http://www.themalaysiantimes.com.my/wp-content/uploads/2017/05/06-train-cat-shake-hands-1024x682.jpg", 
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore ipsum id officia quos sint minus enim nihil? Dicta, nihil voluptatibus ipsa reprehenderit odio quod architecto, dolorum impedit, ullam pariatur placeat.",
+      "githubUrl": "https://github.com/RitaSyed/RitaSyed.github.io"
+    },
+    {
+      "id": "project2", 
+      "title": "Project title 2", 
+      "imageUrl": "http://www.themalaysiantimes.com.my/wp-content/uploads/2017/05/06-train-cat-shake-hands-1024x682.jpg", 
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore ipsum id officia quos sint minus enim nihil? Dicta, nihil voluptatibus ipsa reprehenderit odio quod architecto, dolorum impedit, ullam pariatur placeat.",
+      "githubUrl": "https://github.com/RitaSyed/RitaSyed.github.io"
+    },
+    {
+      "id": "project3", 
+      "title": "Project title 3", 
+      "imageUrl": "http://www.themalaysiantimes.com.my/wp-content/uploads/2017/05/06-train-cat-shake-hands-1024x682.jpg", 
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore ipsum id officia quos sint minus enim nihil? Dicta, nihil voluptatibus ipsa reprehenderit odio quod architecto, dolorum impedit, ullam pariatur placeat.",
+      "githubUrl": "https://github.com/RitaSyed/RitaSyed.github.io"
+    },
+    {
+      "id": "project4", 
+      "title": "Project title 4", 
+      "imageUrl": "http://www.themalaysiantimes.com.my/wp-content/uploads/2017/05/06-train-cat-shake-hands-1024x682.jpg", 
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore ipsum id officia quos sint minus enim nihil? Dicta, nihil voluptatibus ipsa reprehenderit odio quod architecto, dolorum impedit, ullam pariatur placeat.",
+      "githubUrl": "https://github.com/RitaSyed/RitaSyed.github.io"
+    },
+    {
+      "id": "project5", 
+      "title": "Project title 5", 
+      "imageUrl": "http://www.themalaysiantimes.com.my/wp-content/uploads/2017/05/06-train-cat-shake-hands-1024x682.jpg", 
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore ipsum id officia quos sint minus enim nihil? Dicta, nihil voluptatibus ipsa reprehenderit odio quod architecto, dolorum impedit, ullam pariatur placeat.",
+      "githubUrl": "https://github.com/RitaSyed/RitaSyed.github.io"
+    },
+    {
+      "id": "project6", 
+      "title": "Project title 6", 
+      "imageUrl": "http://www.themalaysiantimes.com.my/wp-content/uploads/2017/05/06-train-cat-shake-hands-1024x682.jpg", 
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore ipsum id officia quos sint minus enim nihil? Dicta, nihil voluptatibus ipsa reprehenderit odio quod architecto, dolorum impedit, ullam pariatur placeat.",
+      "githubUrl": "https://github.com/RitaSyed/RitaSyed.github.io"
+    }
+  ]
+}

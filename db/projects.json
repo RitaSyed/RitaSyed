@@ -28,7 +28,13 @@
       "id": "blog5", 
       "title": "Week 7 of NSS", 
       "date": "04/03/18", 
-      "post": "I learned XHR and completed Solar System project. In Solar System project I chose for loop my Event Listeners instead of event bubbling as I did in Travel Diary project, and also arranged code differently. I did this just for practice. I am practicing to have multiple XHRs."
+      "post": "I learned XHR and completed Solar System project. In Solar System project I chose for loop my Event Listeners instead of event delegation as I did in Travel Diary project, and also arranged code differently. I did this just for practice. I am practicing to have multiple XHRs."
+    },
+    {
+      "id": "blog6", 
+      "title": "Week 8 of NSS", 
+      "date": "04/09/18", 
+      "post": "I learned Bootstrap and completed Treehouse Cage Match project using Bootstrap.  I spent lots of time on figuring out Bootstrap while doing Treehouse Cage Match project  than on the JavaScript code. It is in my plants to go back and make my code better. Bootstrap is time consuming to learn but I think that once I practice more Bootstrap, I will get faster implementing it in my projects."
     }
   ],
   "projects": [

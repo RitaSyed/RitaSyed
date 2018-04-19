@@ -30,6 +30,8 @@ img{
   color: blue;
 }
 
+/* navbar */
+/* 
 .nav-menu {
   display: flex;
   width: 100%;
@@ -50,8 +52,48 @@ img{
   font-size: 18px;
   color: red;
   background-color: yellowgreen;
+} */
+
+.nav-menu {
+  display: flex;
+  width: 100%;
+  position: fixed;
+  background-color:  #ffa949;
+  z-index:1;
+  list-style-type: none;
+  height: 40px;
 }
 
+.nav-menu ul {
+  margin:15px;
+  padding: 0;
+  
+}
+
+.nav-menu li a {
+  color: yellow;
+  text-decoration: none;
+  font-family: "Exo 2", sans-serif;
+  font-size: 1.2em;
+  text-align:center;
+  margin-right: 50px;
+  padding: 10px 10px 10px 10px;
+}
+.nav-menu li a:hover,
+.nav-menu li a:active,
+.nav-menu li a:a:focus{
+  color: orange;
+  font-size: 18px;
+}
+
+.nav-link-right {
+  margin-left: auto;
+}
+
+
+
+
+/* footer */
 .nav-menu,.main-footer  {
   padding-top: 10px;
   padding-bottom: 10px;

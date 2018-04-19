@@ -7,10 +7,10 @@ const writeToDom = (stringToPrint, divId) => {
 }
 
 const createBlogPosts = (blogsArray) => {
-    
+
   for(var i=0; i<blogsArray.length; i++){
     var blogsString = "";
-    blogsString += "<article class='content-container'><h3>" + blogsArray[i].title + "</h3>";
+    blogsString += "<article><h3>" + blogsArray[i].title + "</h3>";
     blogsString += "<p>" + blogsArray[i].date + "</p>";
     blogsString += "<p>" + blogsArray[i].post + "</p>";
     blogsString += "</article>";

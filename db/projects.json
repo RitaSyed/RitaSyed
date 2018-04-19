@@ -28,17 +28,24 @@
       "id": "blog5",
       "title": "Week 7 of NSS",
       "date": "04/03/18",
-      "post": "I learned XHR and completed Solar System project. In Solar System project I chose for loop my Event Listeners instead of event bubbling as I did in Travel Diary project, and also arranged code differently. I did this just for practice. I am practicing to have multiple XHRs."
+      "post": "I learned XHR and completed Solar System project. In Solar System project I chose for loop my Event Listeners instead of event delegation as I did in Travel Diary project, and also arranged code differently. I did this just for practice. I am practicing to have multiple XHRs."
     },
     {
       "id": "blog6",
       "title": "Week 8 of NSS",
+
+      "date": "04/09/18",
+      "post": "I learned Bootstrap and completed Treehouse Cage Match project using Bootstrap.  I spent lots of time on figuring out Bootstrap while doing Treehouse Cage Match project  than on the JavaScript code. It is in my plants to go back and make my code better. Bootstrap is time consuming to learn but I think that once I practice more Bootstrap, I will get faster implementing it in my projects."
+    },
+     {
+      "id": "blog6",
+      "title": "Week 9 of NSS",
       "date": "04/10/18",
       "post": "This week I learned task runners and browserify. I applied learned material to complete project - Adoption Website.There is different file structure setup and it was confusing at first but it helped me organize my code better instead of having just one js file with hundreds line of code in it. Also I like to access parsed data as needed and still keep it secure. However, circular dependencies can be a problem therefore I had to keep it in mind while working on the Adoption Website project."
     },
     {
       "id": "blog7",
-      "title": "Week 9 of NSS",
+      "title": "Week 10 of NSS",
       "date": "04/17/18",
       "post": "This week I started Movie Maker project using browserify and task runners. I felt overwhelmed when I read the project requirements. However,  I decided to break down the project to even smaller and simpler steps and started to code things I know how to do first. This decision helped me overcome the 'I don't know where to start' thinking and complete the project."
     }

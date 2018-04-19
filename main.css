@@ -23,7 +23,7 @@ img{
 .content-container{
   margin: 0 auto;
   width: 60%;
-  margin-top: 70px;
+  margin-top: 55px;
 }
 
 .icon {
@@ -31,28 +31,6 @@ img{
 }
 
 /* navbar */
-/* 
-.nav-menu {
-  display: flex;
-  width: 100%;
-  height: 40px;
-  position: fixed;
-  background-color:  #ffa949;
-  z-index:1;
-  justify-content: flex-end;
-  list-style: none;
-}
-
-.nav-menu li a {
-  padding: 10px 25px;
-  
-}
-
-.nav-menu li a:hover {
-  font-size: 18px;
-  color: red;
-  background-color: yellowgreen;
-} */
 
 .nav-menu {
   display: flex;
@@ -67,31 +45,28 @@ img{
 .nav-menu ul {
   margin:15px;
   padding: 0;
-  
+
 }
 
 .nav-menu li a {
-  color: yellow;
+  color:#755938;
   text-decoration: none;
   font-family: "Exo 2", sans-serif;
-  font-size: 1.2em;
+  font-size: 1em;
   text-align:center;
   margin-right: 50px;
   padding: 10px 10px 10px 10px;
 }
 .nav-menu li a:hover,
 .nav-menu li a:active,
-.nav-menu li a:a:focus{
-  color: orange;
+.nav-menu li a:focus{
+  color:#3f1b0c;
   font-size: 18px;
 }
 
 .nav-link-right {
   margin-left: auto;
 }
-
-
-
 
 /* footer */
 .nav-menu,.main-footer  {

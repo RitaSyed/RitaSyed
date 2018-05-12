@@ -48,6 +48,18 @@
       "title": "Week 10 of NSS",
       "date": "04/17/18",
       "post": "This week I started Movie Maker project using browserify and task runners. I felt overwhelmed when I read the project requirements. However,  I decided to break down the project to even smaller and simpler steps and started to code things I know how to do first. This decision helped me overcome the 'I don't know where to start' thinking and complete the project."
+    },
+    {
+      "id": "blog8",
+      "title": "Week 11 of NSS",
+      "date": "04/24/18",
+      "post": "This week there was a group project. Class was divided into groups by skill level. My group was called chatty-turophobia. I was happy to work with my new team members on the project. Even though each person had similar skill level, I learned a lot from each person by looking at their code. The hardest part for our group was planning and writing tickets but once that was done, coding was easy and fast. I am looking forward to work with this team again on the next project."
+    },
+    {
+      "id": "blog9",
+      "title": "Week 12 of NSS",
+      "date": "05/01/18",
+      "post": "We started to learn jQuery. The homework for this week was to create fictional ex tracker. This assignment was easy to complete with jQuery and a lot faster even though I have never used jQuery before this homework assignment."
     }
   ],
   "projects": [

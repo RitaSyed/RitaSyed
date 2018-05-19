@@ -60,6 +60,12 @@
       "title": "Week 12 of NSS",
       "date": "05/01/18",
       "post": "We started to learn jQuery. The homework for this week was to create fictional ex tracker. This assignment was easy to complete with jQuery and a lot faster even though I have never used jQuery before this homework assignment."
+    },
+    {
+      "id": "blog10",
+      "title": "Week 13 of NSS",
+      "date": "05/15/18",
+      "post": "This week we learned Promises. Unfortunately, I missed the class but I studied promises on my own (LOTS of Googling). I was able to complete the homework assignment - exTracker part 2 where I used promises. Also, NSS instructor, Lauren, gave me one-on-one time to answer conceptual questions about promises and look over my homework code."
     }
   ],
   "projects": [

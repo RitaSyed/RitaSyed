@@ -66,6 +66,18 @@
       "title": "Week 13 of NSS",
       "date": "05/15/18",
       "post": "This week we learned Promises. Unfortunately, I missed the class but I studied promises on my own (LOTS of Googling). I was able to complete the homework assignment - exTracker part 2 where I used promises. Also, NSS instructor, Lauren, gave me one-on-one time to answer conceptual questions about promises and look over my homework code."
+    },
+    {
+      "id": "blog11",
+      "title": "Week 14 of NSS",
+      "date": "05/22/18",
+      "post": "This week we learned APIs and completed Local Weather homework, part 1. I used API to get data from https://openweathermap.org/API and display it on the page."
+    },
+    {
+      "id": "blog12",
+      "title": "Week 15 of NSS",
+      "date": "05/29/18",
+      "post": "This week we learned Firebase and I started on Local Weather homework, part 2. I used Firebase to save chosen weather data there and then retrieve saved data by clicking View Saved Forecast button. I really enjoy coding and working with a study group. I found that I like debugging other people's code... weird..."
     }
   ],
   "projects": [
